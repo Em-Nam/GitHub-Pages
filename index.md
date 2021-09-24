@@ -1,7 +1,7 @@
 # Em Nam
 ## Student at UCSD
 
-![Pic of Me](/assets/images/profile_pic_copy.jpeg)
+![Pic of Me](/assets/images/profile_pic_copy.png)
 
 ### Academic Interests
 Areas I am interested in learning more about include:
